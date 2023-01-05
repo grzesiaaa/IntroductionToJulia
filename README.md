@@ -5,11 +5,11 @@
 ### Description
 Minor tasks for academic course "Pakiety matematyczne" at Wrocław University of Science and Technology. First contact with Julia language.
 
-**List 1** - introduction, familiarising with language functionality
-**List 2** - reversing functions, population models, dynamic system, bifurcation, simple casino game, simple disease simulation
-**List 3** - animations, conway's game of life, Sierpinski carpet, heat spreading equation
-**List 4** - binary numbers display, numerical solving linear equations, images editing
-**List 5** - plots: butterfly curve, sunflowers, blancmange curve, complex logarithm, working on iris data set, local extremes
+**List 1** - introduction, familiarising with language functionality \
+**List 2** - reversing functions, population models, dynamic system, bifurcation, simple casino game, simple disease simulation \
+**List 3** - animations, conway's game of life, Sierpinski carpet, heat spreading equation \
+**List 4** - binary numbers display, numerical solving linear equations, images editing \
+**List 5** - plots: butterfly curve, sunflowers, blancmange curve, complex logarithm, working on iris data set, local extremes \
 **List 8** - maximums and minimums of multivariable functions
 
 
